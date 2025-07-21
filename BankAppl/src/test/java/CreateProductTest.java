@@ -5,7 +5,14 @@ public class CreateProductTest {
 		// TODO Auto-generated method stub
 System.out.println("create Test class for product test");
 
+
 System.out.println("Modified by test engineer sam");
+
+
+System.out.println("I am modifiying the script :modified by testeng2");
+System.out.println("Hi");
+System.out.println("Hello");
+
 	}
 
 }
